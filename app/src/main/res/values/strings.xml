@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="button">Button</string>
+    <string name="last_name">Last name</string>
+    <string name="e_mail">E-mail</string>
+    <string name="here_will_go_your_e_mail">Here will go your E-mail</string>
+    <string name="display_the_last_name">Display the last name</string>
+    <string name="send_data">Send Data</string>
+    <string name="dislpay_the_first_name">Dislpay the first name</string>
+</resources>
